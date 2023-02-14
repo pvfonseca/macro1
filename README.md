@@ -1,6 +1,6 @@
 # Macroeconomia I
 
-<p align="center"><a href="https://pvfonseca.github.io/teaching/macro/"><b><Website do curso></b> :computer:</a></p>
+<p align="center"><a href="https://pvfonseca.github.io/teaching/macro/"><b> Website do curso</b> :computer:</a></p>
 
 > ## Informações
 > Docente: <a href="https://pvfonseca.github.io"> Paulo Victor da Fonseca </a>
