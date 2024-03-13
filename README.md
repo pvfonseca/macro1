@@ -12,7 +12,7 @@
 > Horários:
 >
 > * Terças-feiras das 10:15 às 11:55
-> * Quintas-feiras das 08:25 às 10:00
+> * Quintas-feiras das 10:15 às 11:55
 > 
 ## Descrição do curso
 Curso de Macroeconomia I para o terceiro termo da Graduação em Ciências Econômicas da UDESC.
