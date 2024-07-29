@@ -2,7 +2,7 @@
 
 <p align="center"><a href="https://pvfonseca.github.io/teaching/macro/"><b> Website do curso</b> :computer:</a></p>
 
-> ## Informações
+> [!NOTE]
 > Docente: <a href="https://pvfonseca.github.io"> Paulo Victor da Fonseca </a>
 >
 > Contato: <a href="mailto:paulo.fonseca@udesc.br"> paulo.fonseca@udesc.br</a>
