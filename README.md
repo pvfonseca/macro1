@@ -7,7 +7,7 @@
 >
 > Contato: <a href="mailto:paulo.fonseca@udesc.br"> paulo.fonseca@udesc.br</a>
 >
-> Local: Sala 147, ESAG/UDESC
+> Local: Sala 113, ESAG/UDESC
 >
 > Horários:
 >
